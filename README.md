@@ -25,3 +25,5 @@ An interactive web application that helps visualize how sorting algorithms work 
 
 ## Project Purpose
 This project helps beginners understand Data Structures and Algorithms by visually demonstrating how sorting algorithms work.
+
+
